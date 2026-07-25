@@ -1,0 +1,8 @@
+# Бібліотеки для практичних робіт.
+# Встановити:  pip install -r requirements.txt
+
+pyyaml      # тема 4 — читання YAML
+pygame      # тема 13 — гра
+
+# tkinter, re, sqlite3, glob, datetime, argparse — у стандартній
+# поставці Python, ставити не треба

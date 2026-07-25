@@ -1,0 +1,30 @@
+# Віртуальне оточення — ніколи не комітиться
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Секрети — паролі й ключі в репозиторій не потрапляють НІКОЛИ
+.env
+*.key
+secrets.*
+
+# Редактори
+.vscode/
+.idea/
+*.swp
+
+# Системне
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Тимчасове
+*.log
+!data/access.log
+*.tmp
