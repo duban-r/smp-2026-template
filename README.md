@@ -143,6 +143,19 @@ smp-2026/
 для роботи `06-regex-log`. Якщо застрягли не на регулярці, а на `open()` —
 вам туди, це один вечір.
 
+### Українською є ще й по темах курсу
+
+Ці два курси корисні **одним розділом кожен**. Відкривайте потрібний
+розділ, а не проходьте курс цілком:
+
+| Розділ | Куди |
+|---|---|
+| [Python для веб (PFWE101)](https://apps.prometheus.org.ua/learning/course/course-v1:Prometheus+PFWE101+2024_T3/home) → **розділ 11 «Регулярні вирази»** | роботи `05-regex`, `06-regex-log` |
+| [Python для баз даних (PFDAT101)](https://apps.prometheus.org.ua/learning/course/course-v1:Prometheus+PFDAT101+2024_T3/home) → **розділ 15 «Бази даних»** | роботи `07-sql`, `08-sql-join` |
+
+⭐ Хто хоче Git серйозно — [GIT101 від The Linux Foundation](https://apps.prometheus.org.ua/learning/course/course-v1:LinuxFoundation+GIT101+2023_T1/home):
+13 розділів, лабораторні, іспит. Це кілька тижнів, не вечір.
+
 ### Сертифікат зараховується
 
 **Сертифікат про завершення = одне практичне заняття модуля**
