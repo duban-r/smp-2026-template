@@ -181,7 +181,7 @@ smp-2026/
 
 Онлайн, ставити нічого не треба:
 [regex101.com](https://regex101.com) ·
-[sqliteonline.com](https://sqliteonline.com) ·
+[sqlite.org/fiddle](https://sqlite.org/fiddle) ·
 [learngitbranching.js.org](https://learngitbranching.js.org)
 
 ### Бібліотеки Python

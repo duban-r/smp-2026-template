@@ -6,7 +6,7 @@
 
 База: `../../data/chinook.db` — магазин музики.
 Відкрити в **DB Browser for SQLite** або завантажити на
-[sqliteonline.com](https://sqliteonline.com).
+[sqlite.org/fiddle](https://sqlite.org/fiddle).
 
 Таблиці: `Track`, `Album`, `Artist`, `Genre`, `Customer`, `Invoice`, `InvoiceLine`.
 

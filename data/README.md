@@ -51,8 +51,8 @@
 
 ### Як відкрити
 
-**Найпростіше:** [sqliteonline.com](https://sqliteonline.com) →
-кнопка **Open DB** → вибрати цей файл.
+**Найпростіше:** [sqlite.org/fiddle](https://sqlite.org/fiddle) →
+кнопка **Load DB…** → вибрати цей файл.
 
 **Локально:** [DB Browser for SQLite](https://sqlitebrowser.org) —
 подвійний клік по файлу.
