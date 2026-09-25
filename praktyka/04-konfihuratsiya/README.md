@@ -209,8 +209,11 @@ git push
 
 | Що бачите | Що це означає | Що робити |
 |---|---|---|
+| `error: remote shablon already exists.` | шаблон уже підключено раніше | нічого не робити, далі `git fetch shablon` |
+| `fatal: 'shablon' does not appear to be a git repository` | пропущено підключення шаблону | спершу `git remote add shablon https://github.com/duban-r/smp-2026-template.git` |
 | `python` відкриває Microsoft Store або «не знайдено» | Python не встановлений або не в PATH | крок 0: інсталятор з галочкою «Add python.exe to PATH»; або `py` замість `python` |
 | `No module named yaml` / `Немає бібліотеки PyYAML` | PyYAML не встановлено | `python -m pip install pyyaml` |
+| `No module named 'tomllib'` | Python старіший за 3.11 | крок 0: встановити новий Python з python.org, перевірити `python --version` |
 | `No such file or directory: 'praktyka/...'` | ви не в корені репозиторію | `cd ~/smp-2026` |
 | JSON: `Illegal trailing comma before end of object` | кома після останнього елемента | прибрати кому перед `}` або `]` |
 | JSON: `Expecting property name enclosed in double quotes` | одинарні лапки або кома в кінці | тільки `"подвійні"` |
