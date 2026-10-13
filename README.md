@@ -187,9 +187,7 @@ smp-2026/
 ### Бібліотеки Python
 
 ```bash
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
+python -m pip install pyyaml pygame-ce
 ```
 
 ---
