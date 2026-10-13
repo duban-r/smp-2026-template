@@ -1,8 +1,8 @@
 # Бібліотеки для практичних робіт.
-# Встановити:  pip install -r requirements.txt
+# Встановити:  python -m pip install pyyaml pygame-ce
 
 pyyaml      # тема 4 — читання YAML
-pygame      # тема 13 — гра
+pygame-ce   # тема 13 — гра (звичайний pygame не ставиться на Python 3.14)
 
 # tkinter, re, sqlite3, glob, datetime, argparse — у стандартній
 # поставці Python, ставити не треба
